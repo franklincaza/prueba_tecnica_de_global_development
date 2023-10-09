@@ -3,9 +3,13 @@
 El nombre de cada archivo python  del proyecto es la solucion propuesta por cada ejercicio por ejemplo :
 
 ejercicio 1.py , es la respuesta del primer ejercicio .
+
 ejercicio 2.py , es la respuesta del segundo ejercicio .
+
 ejercicio 3.py , es la respuesta del tercero ejercicio .
+
 ejercicio 4.py , es la respuesta del cuarto ejercicio .
+
 
 ## Requisitos
 
